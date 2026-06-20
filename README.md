@@ -6,7 +6,6 @@
 - **NIM:** 452024611004
 - **Mata Kuliah:** Machine Learning 2
 
----
 
 ## Deskripsi Tugas
 
@@ -17,7 +16,6 @@ Repository ini berisi implementasi:
 3. Evaluasi performa model menggunakan metrik Accuracy dan Loss.
 4. Visualisasi hasil pelatihan berupa grafik Accuracy dan Loss.
 
----
 
 ## Dataset
 
@@ -39,8 +37,6 @@ Contoh kelas:
 - Ship
 - Truck
 
----
-
 ## Arsitektur CNN
 
 Model CNN yang digunakan terdiri dari:
@@ -53,7 +49,6 @@ Model CNN yang digunakan terdiri dari:
 - Dense (128 Neuron)
 - Dense (10 Output Class)
 
----
 
 ## Transfer Learning
 
@@ -65,7 +60,6 @@ Transfer Learning menggunakan:
 - Dense Layer
 - Softmax Classification
 
----
 
 ## Hasil Pengujian
 
@@ -80,7 +74,6 @@ Transfer Learning menggunakan:
 - Accuracy ≈ 81%
 - Loss ≈ 0.58
 
----
 
 ## Visualisasi
 
@@ -89,7 +82,6 @@ Repository ini juga menampilkan:
 - Grafik Training Accuracy vs Validation Accuracy
 - Grafik Training Loss vs Validation Loss
 
----
 
 ## Tools yang Digunakan
 
@@ -99,7 +91,6 @@ Repository ini juga menampilkan:
 - Matplotlib
 - Google Colab
 
----
 
 ## Cara Menjalankan
 
@@ -108,7 +99,6 @@ Repository ini juga menampilkan:
 3. Tunggu proses training selesai.
 4. Lihat hasil evaluasi dan grafik performa model.
 
----
 
 ## Repository
 
